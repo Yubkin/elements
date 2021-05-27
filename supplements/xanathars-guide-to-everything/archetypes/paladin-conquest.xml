@@ -105,9 +105,8 @@
       <description>When a creature within {{aura of conquest:aura}} feet is frightened of you, its speed is reduced to 0 while inside the aura, and takes {{aura of conquest:damage}} psychic damage if it start its turn there.</description>
     </sheet>
     <rules>
-      <stat name="aura of conquest:aura" value="10" bonus="aura of the guardian" />
-      <stat name="aura of conquest:aura" value="30" bonus="aura of the guardian" level="18" />
-      <stat name="aura of conquest:damage" value="level:paladin:half" />
+      <stat name="aura of conquest:aura" value="10" />
+      <stat name="aura of conquest:aura" value="30" level="18" />
     </rules>
   </element>
   <element name="Scornful Rebuke" type="Archetype Feature" source="Sword Coast Adventurer’s Guide" id="ID_WOTC_XGTE_ARCHETYPE_FEATURE_OATH_OF_CONQUEST_SCORNFUL_REBUKE">
